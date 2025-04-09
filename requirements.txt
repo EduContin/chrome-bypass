@@ -1,0 +1,5 @@
+websocket-client==1.4.0
+requests==2.28.2
+pycryptodome==3.17.0
+pywin32==306
+psutil==5.9.4 
